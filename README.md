@@ -8,7 +8,8 @@ Wetware would signify a biological component that interfaces directly with a tec
 
 This approach could lead to highly personalized medicine, adaptive learning systems, or responsive assistive technologies.
 
-![wetware2](https://github.com/wetware-foundation/wetware-dev/assets/5669657/b79e435e-5fb8-4295-88e1-0100c25ff77d)
+
+![wetware2](https://github.com/wetware-foundation/wetware-dev/assets/5669657/3e4eb3e3-715f-4239-aa0a-1e86b2b0d156)
 
 
 ## Principles, Definition, Purposes
