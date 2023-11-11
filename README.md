@@ -8,6 +8,9 @@ Wetware would signify a biological component that interfaces directly with a tec
 
 This approach could lead to highly personalized medicine, adaptive learning systems, or responsive assistive technologies.
 
+![wetware2](https://github.com/wetware-foundation/wetware-dev/assets/5669657/b79e435e-5fb8-4295-88e1-0100c25ff77d)
+
+
 ## Principles, Definition, Purposes
 
 Digital twin refers to a digital representation of a physical object or system. It's used to simulate, predict, and optimize real-world entities in a virtual space. Here's how the different elements you mention could hypothetically form part of a digital twin system:
