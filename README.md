@@ -1,6 +1,7 @@
 # [wetware.dev](http://www.wetware.dev)
 
 wetware solution driven by hyper-modular principles using metamodule schema definition for digital twin purposes mixes advanced concepts from both biology and technology and they integrate digital twin applications.
++ [metamodule.org](https://docs.metamodule.org/)
 
 The term "wetware" refers to biological neural systems – particularly the human brain – in contrast to hardware and software in computers. 
 
@@ -32,7 +33,7 @@ All of this suggests a complex, responsive system for real-time monitoring and s
 
 The integration of wetware with hyper-modular digital twin systems would require significant advancements in bioinformatics, sensor technology, data processing, and perhaps even AI to interpret the complex data streaming in from the biological components. This is where the line between present capabilities and future possibilities blurs, as the full realization of such a system would bring us into the frontier of biotechnology and computational science.
 
-## Solution
+## Solution 1
 
 Wetware as biological systems or components, are usually inspired by the functioning of the human brain and nervous system, which are integrated into technology or computational systems. 
 These can include brain-computer interfaces, neural networks (both biological and artificial), and any sort of computing that relies on the principles of living systems.
@@ -52,6 +53,11 @@ Putting these concepts together, a "wetware solution driven by hyper-modular pri
 5. **Biocompatibility**: Since these modules interact with biological systems, they must not only be non-toxic but also capable of integrating with living tissues without causing an adverse immune response or damage.
 
 6. **Smart Interfaces**: To interact with the human biological system, these interfaces must be capable of translating biological signals into machine ones and vice versa, allowing for intuitive communication between the wetware system and its user.
+
+
+## Solution 2
+
++ OneDayRun is a SaaS service that supports modular services based on the DialogWare ecosystem 
 
 ## Example
 
