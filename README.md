@@ -1,7 +1,11 @@
 # [wetware.dev](http://www.wetware.dev)
 
+
 wetware solution driven by hyper-modular principles using metamodule schema definition for digital twin purposes mixes advanced concepts from both biology and technology and they integrate digital twin applications.
++ [twinizer](http://www.twinizer.com)
++ [hypermodularity](http://www.hypermodularity.com)
 + [metamodule.org](https://docs.metamodule.org/)
++ []()
 
 The term "wetware" refers to biological neural systems – particularly the human brain – in contrast to hardware and software in computers. 
 
