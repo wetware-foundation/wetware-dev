@@ -1,11 +1,68 @@
 # [wetware.dev](http://www.wetware.dev)
 
++ [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
++ [Foundation-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
++ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](http://leadership.run/AGENT)
++ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
++ [Service-Centric Solutions - Software Requirement: SaaSisKing](http://leadership.run/SERVICE)
++ [Software-Centric Solutions - Deployment Delivery: Dialogware](http://leadership.run/SOFTWARE)
++ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURmd)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org](http://leadership.run/SECURIT)
+
++ [SDLC](http://leadership.run/SDLC)
+
+
+# Human Centric Solutions
+
+Standards: Driven by technical and human capabilities
+
+## Menu
++ [Human-Centric Solutions - Wetware, DigitalTwin](HUMAN.md)
++ [Process-Centric Solutions - Gaiann Worker](PROCESS.md)
++ [Security-Centric Solutions - CyberPolygon](SECURITY.md)
++ [Service-Centric Solutions - SaaSisKing](SERVICE.md)
++ [Software-Centric Solutions - Dialogware](SOFTWARE.md)
++ [Infrastructure-Centric Solutions - Dynapsys](INFRASTRUCTURE.md)
++ [SDLC](SDLC.md)
+
+
+### Human factor
+
++ Teleworker
++ Teleoperator
++ worksitehub
+
+
+### Digital Twin
+
++ App, env Definition - apiMacro.com
++ Data Multi Format Specification - ndof.org 
++ Module Definition - MetaModule.org
+
+
+## Community
+
++ [forties.plus](http://forties.plus)
+  + Domains
+  + SaaS Services
+  + monitoring
+    
+
+  
+### Human Interface and Integration
+
++ wetware.dev - wetware - Human Integration
+  + coboarding.com - co onboarding - Identity Transfer
+  + cotutorial.com - co tutorial - Experience Transfer 
+  + cosensation.com -  co sensation - Emotion Transfer
+  + codialog.com - co dialog - Data Transfer
+
+
+
 
 wetware solution driven by hyper-modular principles using metamodule schema definition for digital twin purposes mixes advanced concepts from both biology and technology and they integrate digital twin applications.
 + [twinizer](http://www.twinizer.com)
-+ [hypermodularity](http://www.hypermodularity.com)
-+ [metamodule.org](https://docs.metamodule.org/)
-+ []()
 
 The term "wetware" refers to biological neural systems – particularly the human brain – in contrast to hardware and software in computers. 
 
