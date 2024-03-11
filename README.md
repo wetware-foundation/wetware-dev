@@ -7,7 +7,7 @@ Standards: Driven by technical and human capabilities
 ## Menu
 
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
-+ [Foundation-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
++ [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
 + [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](http://leadership.run/AGENT)
 + [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
 + [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
