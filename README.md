@@ -1,5 +1,11 @@
 # [wetware.dev](http://www.wetware.dev)
 
+Human Centric Solutions
+
+Standards: Driven by technical and human capabilities
+
+## Menu
+
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Foundation-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
 + [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](http://leadership.run/AGENT)
@@ -11,20 +17,6 @@
 + [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org](http://leadership.run/SECURIT)
 
 + [SDLC](http://leadership.run/SDLC)
-
-
-# Human Centric Solutions
-
-Standards: Driven by technical and human capabilities
-
-## Menu
-+ [Human-Centric Solutions - Wetware, DigitalTwin](HUMAN.md)
-+ [Process-Centric Solutions - Gaiann Worker](PROCESS.md)
-+ [Security-Centric Solutions - CyberPolygon](SECURITY.md)
-+ [Service-Centric Solutions - SaaSisKing](SERVICE.md)
-+ [Software-Centric Solutions - Dialogware](SOFTWARE.md)
-+ [Infrastructure-Centric Solutions - Dynapsys](INFRASTRUCTURE.md)
-+ [SDLC](SDLC.md)
 
 
 ### Human factor
