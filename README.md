@@ -8,15 +8,14 @@ Standards: Driven by technical and human capabilities
 
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
-+ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](http://leadership.run/AGENT)
-+ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
-+ [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing](http://leadership.run/SERVICE)
-+ [Software-Centric Solutions - Deployment Delivery: Dialogware](http://leadership.run/SOFTWARE)
-+ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURmd)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org](http://leadership.run/SECURIT)
++ [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
++ [Interface-Centric Solutions - INTERFACE audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Service-Centric Solutions - SaaSisKing.com - Software Requirements](http://www.SaaSisKing.com)
++ [Software-Centric Solutions - text.to.software - Modular Software](http://text.to.software)
++ [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
++ [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
 
-+ [SDLC](http://leadership.run/SDLC)
++ [SDLC: softreck.dev](http://leadership.run/SDLC)
 
 
 ### Human factor
@@ -151,3 +150,8 @@ While the creation of such a wetware digital twin is currently beyond our techno
 
 
 + [Introduction to Neurohacking In R - Coursera](https://www.coursera.org/learn/neurohacking)
+
+
+---
+
++ [edit](https://github.com/wetware-foundation/wetware-dev/edit/main/README.md)
