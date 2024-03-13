@@ -9,7 +9,7 @@ Standards: Driven by technical and human capabilities
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
 + [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
-+ [Interface-Centric Solutions - INTERFACE audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Interface-Centric Solutions - WebStream: Interface streaming for media audio, video, text: VoCo.Cam](http://www.WebStream.dev)
 + [Service-Centric Solutions - SaaSisKing.com - Software Requirements](http://www.SaaSisKing.com)
 + [Software-Centric Solutions - text.to.software - Modular Software](http://text.to.software)
 + [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
