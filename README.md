@@ -38,6 +38,14 @@ Standards: Driven by technical and human capabilities
   + Domains
   + SaaS Services
   + monitoring
+
+
+## Community
+
++ Solo Startup
++ One Person Service
++ One Person SaaS
+
     
 
   
