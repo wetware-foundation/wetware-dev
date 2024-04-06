@@ -17,6 +17,7 @@ Standards: Driven by technical and human capabilities
 + [SDLC: softreck.dev](http://leadership.run/SDLC)
 
 
+
 ### Human factor
 
 + Teleworker
@@ -142,6 +143,24 @@ To achieve such a comprehensive digital twin, here's what the wetware component 
 **Ethical and Privacy Considerations:** As with any technology that penetrates deeply into personal and biological domains, strict ethical standards and privacy protections would be vital. Transparent policies and stringent data security measures would be required to ensure the trust and cooperation of human workers.
 
 While the creation of such a wetware digital twin is currently beyond our technological capability, especially in terms of cognitive and subjective experience modeling, it represents an intriguing intersection of biotechnology, artificial intelligence, and workplace innovation that could be explored in the future.
+
+
+
+
+## Prawo
+
+### Definicja pełnomocnictwa:
+Pełnomocnictwo to formalny dokument, który upoważnia jedną osobę (pełnomocnika) do działania w imieniu drugiej osoby (pełnomocodawcy). Może to obejmować różne kwestie, takie jak zarządzanie finansami, reprezentowanie w sądzie, czy podejmowanie decyzji medycznych.
+
+### Rodzaje pełnomocnictw:
++ Pełnomocnictwo ogólne: Daje pełnomocnikowi szerokie uprawnienia do działania w imieniu pełnomocodawcy.
++ Pełnomocnictwo szczególne: Ogranicza zakres działań pełnomocnika do określonych celów (np. sprzedaż nieruchomości).
++ Pełnomocnictwo zdrowotne: Dotyczy decyzji medycznych, gdy pełnomocodawca nie jest w stanie samodzielnie podejmować decyzji.
+
+### Zrzeczenie się praw:
+W pełnomocnictwie można zawrzeć klauzulę, która pozwala pełnomocnikowi zrzec się pewnych praw lub działać w określony sposób. Na przykład, pełnomocnik może zrzec się prawa do korzystania z konta bankowego pełnomocodawcy.
+
+
 
 
 
